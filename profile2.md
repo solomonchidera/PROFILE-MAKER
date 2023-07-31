@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-profile-beautifier.com/assets/header.png" alt="Header">
+  <img src="https:///Github_Logos/Github_logo.png" alt="Header">
 </p>
 
 # Hello, I'm Solomon Chidera! <img src="https://your-profile-beautifier.com/assets/wave.gif" width="30px">
