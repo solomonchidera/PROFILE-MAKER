@@ -38,7 +38,7 @@ Embark on an interstellar adventure in this space exploration game built with Un
 ## 🌟 Achievements
 
 - 🌟 GitHub Star of the Year - Land of Wonders Awards
-- 🏆 Coding Wizard - CodingCon 2021
+- 🏆 Coding Wizard - CodingCon 2022
 
 <p align="center">
   <img src="https://your-profile-beautifier.com/assets/divider.png" alt="Divider">
