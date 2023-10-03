@@ -61,9 +61,9 @@ Embark on an interstellar adventure in this space exploration game built with Un
 I'm thrilled to connect with fellow developers and creators! Feel free to reach out to me for coding quests, discussions, or enchanting collaborations.
 
 🌐 Website: [solomonchidera.dev](https://solomonchidera.dev)
-📧 Email: solomon.chidera@example.com
-🐦 Twitter: [@solomonchidera](https://twitter.com/solomonchidera)
-🔗 LinkedIn: [solomon-chidera](https://www.linkedin.com/in/solomon-chidera)
+📧 Email: solochidera10@gmail.com.com
+🐦 Twitter: [@solomonchidera](https://twitter.com/solomonchidera_)
+🔗 LinkedIn: [solomon-chidera](https://www.linkedin.com/in/solomonchidera)
 
 <p align="center">
   <img src="https://your-profile-beautifier.com/assets/divider.png" alt="Divider">
