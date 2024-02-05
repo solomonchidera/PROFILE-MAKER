@@ -61,6 +61,7 @@ For major changes or feature suggestions, please open an issue first to discuss 
 ## License
 
 The GitHub Profile Beautifier is open-source software licensed under the [MIT License](https://opensource.org/licenses/MIT).
+![Alt](https://repobeats.axiom.co/api/embed/cf3607c216c1033058bf87fe4f56d62c1cf9d28b.svg "Repobeats analytics image")
 
 ---
 
